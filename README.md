@@ -8,6 +8,9 @@ Tutorial: 机器学习和引力波数据处理 Machine learning and GW data anal
 
 Lecturer: 曹周键 (Zhoujian Cao)/王赫 (He Wang)
 
+FYI: 
+> Based on [Gabbard, Hunter, Michael Williams, Fergus Hayes, and Chris Messenger. “Matching Matched Filtering with Deep Networks for Gravitational-Wave Astronomy.” Physical Review Letters 120, no. 14 (December 17, 2017): 141103.](https://doi.org/10.1103/PhysRevLett.120.141103), this is a full reproduction of the code that's both simple and concise. Utilizing PyTorch, it maintains the same network structure as the original code and is also based on Gaussian noise. Furthermore, it has been extended to two detectors.
+
 # Acknowledge
 
 中山大学天琴中心 Tian Qin Center for Gravitational Physics, Sun Yat-sen University
