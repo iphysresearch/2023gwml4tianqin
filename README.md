@@ -1,3 +1,5 @@
+<img width="672" alt="image" src="https://github.com/iphysresearch/2023gwml4tianqin/assets/14322948/0020ec47-ed87-41c0-9301-8f391071cf82">
+
 # 引力波暑期学校 Summer School on Gravitational Waves
 
 Time: 8月22日（星期二）/22th August (Tuesday)
